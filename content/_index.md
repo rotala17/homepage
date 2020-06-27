@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2020-06-25T00:06:07+09:00
-draft: true
+draft: false
 ---
 Kento Nakamura (中村絢斗) is a Ph. D. student at the [Labeoratory for Quantitative Biology](https://research-en.crmind.net/index.html), Institute of Industrial Science, the University of Tokyo.
 He is interested in the design principles behind the implementation of decision-making in relatively primitive biological systems like cells.
