@@ -1,0 +1,24 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Kento Nakamura"
+theme = "beautifulhugo"
+
+[[menu.main]]
+name="Home"
+url = ""
+weight = 1
+
+[[menu.main]]
+name = "Publications"
+url = "page/publications"
+weight = 2
+
+[[menu.main]]
+name="C.V."
+url = "page/cv"
+weight = 3
+
+[[menu.main]]
+name="Links"
+url = "page/links"
+weight = 4
