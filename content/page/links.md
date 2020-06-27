@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2020-06-25T23:41:32+09:00
-draft: true
+draft: false
 ---
 - [Labeoratory for Quantitative Biology](https://research-en.crmind.net/index.html)  
 - [Institute of Industrial Science](http://www.iis.u-tokyo.ac.jp/en/)

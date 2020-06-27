@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 date: 2020-06-24T23:49:48+09:00
-draft: true
+draft: false
 ---
 ### Education
 - **April 2020 – now**  

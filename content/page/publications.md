@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 date: 2020-06-24T23:47:48+09:00
-draft: true
+draft: false
 ---
 
 ### Preprints
