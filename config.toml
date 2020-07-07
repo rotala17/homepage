@@ -2,6 +2,7 @@ baseURL = "https://kento-nakamura.netlify.app/"
 languageCode = "en-us"
 title = "Kento Nakamura"
 theme = "beautifulhugo"
+#"UA-171032174-1"
 
 [[menu.main]]
 name="Home"
