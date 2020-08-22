@@ -29,7 +29,7 @@ JSPS Research Fellowship for Young Scientists (DC1) [[link](https://www.jsps.go.
 ### Grants
 - **April 2020 - March 2023**  
 Grant-in-Aid for JSPS Fellows  
-Project Number: 20J21362 [[link]](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20J21362/)  
+Project Number: 20J21362 [[link](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20J21362/)]
 
 
 ### Awards
