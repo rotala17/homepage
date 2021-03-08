@@ -15,3 +15,7 @@ draft: false
 ### International conferences
 #### Poster presentations
 - Kento Nakamura and Tetsuya J. Kobayashi, **Optimality of the sensory system of Escherichia coli**, Society of Mathematical Biology Annual Meeting,  Online, Aug. 17 - 20, 2020. [[link](https://smb2020.org/Kento-Nakamura/)]
+
+- Kento Nakamura and Tetsuya J. Kobayashi, **A cellular sensory system optimally decodes information from noisy signals**, 2021 Southern California Systems Biology Symposium, Online, Mar. 5, 2021. [[link](https://www.cityofhope.org/2021-systems-biology-symposium)]
+
+

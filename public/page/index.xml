@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Kento Nakamura</title>
+    <link>https://kento-nakamura.netlify.app/page/</link>
+    <description>Recent content in Pages on Kento Nakamura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Jun 2020 23:41:32 +0900</lastBuildDate>
+    
+	<atom:link href="https://kento-nakamura.netlify.app/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Links</title>
+      <link>https://kento-nakamura.netlify.app/page/links/</link>
+      <pubDate>Thu, 25 Jun 2020 23:41:32 +0900</pubDate>
+      
+      <guid>https://kento-nakamura.netlify.app/page/links/</guid>
+      <description> Labeoratory for Quantitative Biology Institute of Industrial Science Department of Mathematical Informatics Graduate school of Information Science and Technology the University of Tokyo  </description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://kento-nakamura.netlify.app/page/cv/</link>
+      <pubDate>Wed, 24 Jun 2020 23:49:48 +0900</pubDate>
+      
+      <guid>https://kento-nakamura.netlify.app/page/cv/</guid>
+      <description>Education   April 2020 - now
+Ph. D. student at Department of Mathematical Informatics, Graduate school of Information Science and Technology, the University of Tokyo
+Supervisor: Assoc. Prof. Tetsuya J. Kobayashi
+  March 2020
+Master of Information Science and Technology from Department of Mathematical Informatics, Graduate school of Information Science and Technology, the University of Tokyo
+   March 2018
+Bachelor of Engineering from Department of Mathematical Engineering and Information Physics, Faculty of Engineering, the University of Tokyo  Experience  April 2020 - now</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://kento-nakamura.netlify.app/page/publications/</link>
+      <pubDate>Wed, 24 Jun 2020 23:47:48 +0900</pubDate>
+      
+      <guid>https://kento-nakamura.netlify.app/page/publications/</guid>
+      <description>Preprints  Kento Nakamura and Tetsuya J. Kobayashi, A connection between bacterial chemotactic network and optimal filtering. arXiv, 2005.13208, 2020. [arXiv:2005.13208]  Journal Papers (Refereed)  Kento Nakamura, Keisuke Yano, and Fumiyasu Komaki, Adjacency-based regularization for partially ranked data with non-ignorable missing. Computational Statistics &amp;amp; Data Analysis, vol. 145, 106905, 2020. [doi: 10.1016/j.csda.2019.106905]  International conferences Poster presentations   Kento Nakamura and Tetsuya J. Kobayashi, Optimality of the sensory system of Escherichia coli, Society of Mathematical Biology Annual Meeting, Online, Aug.</description>
+    </item>
+    
+  </channel>
+</rss>
