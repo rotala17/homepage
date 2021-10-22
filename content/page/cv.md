@@ -33,5 +33,7 @@ Project Number: 20J21362 [[link](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJEC
 
 
 ### Awards
+- Poster Award at the 20th IUPAB (International Union For Pure and
+Applied Biophysics) congress, 2021
 - **Dean's Award** from Graduate school of Information Science and Technology, the University of Tokyo, 2020
 - Silver medal at the 24th International Biology Olympiad, 2013
