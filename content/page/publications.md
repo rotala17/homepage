@@ -4,12 +4,10 @@ date: 2020-06-24T23:47:48+09:00
 draft: false
 ---
 
-### Preprint
+### Journal Papers (Refereed)
 - Kento Nakamura and Tetsuya J. Kobayashi  
 **Optimal sensing and control of run-and-tumble chemotaxis**  
-arXiv:2106.12405, 2021. [[arXiv](https://arxiv.org/abs/2106.12405)]
-
-### Journal Papers (Refereed)
+*Physical Review Research*, 4, 013120, 2022. [[journal](https://doi.org/10.1103/PhysRevResearch.4.013120)]
 - Kento Nakamura and Tetsuya J. Kobayashi  
 **Connection between the bacterial chemotactic network and optimal filtering**  
 *Physical Review Letters*, 126, 128102, 2021. [[journal](https://doi.org/10.1103/PhysRevLett.126.128102)] [[arXiv](https://arxiv.org/abs/2005.13208)]
