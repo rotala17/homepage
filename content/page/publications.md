@@ -23,6 +23,9 @@ draft: false
 4th International Conference on Econometrics and Statistics (EcoSta2021), Online, Jun. 24 - 26, 2021. [[link](http://www.cmstatistics.org/RegistrationsV2/EcoSta2021/viewSubmission.php?in=287&token=032q7pn2509qr961so0812r594r82q14)]
 #### Poster presentations
 - Kento Nakamura and Tetsuya J. Kobayashi  
+**Optimal information processing and motor control of run-and-tumble chemotaxis under stochastic fluctuation**  
+The 12th European Conference on Mathematical and Theoretical Biology (ECMTB), Heidelberg, Germany, Sep. 19-23, 2022. [[link](https://ecmtb2022.org/)]  
+- Kento Nakamura and Tetsuya J. Kobayashi  
 **Biochemical implementation of optimal control for run-and-tumble chemotaxis**  
 The 20th Congress of the International Union for Pure and Applied Biophysics (IUPAB), Online, Oct. 4 - 8, 2021. [[link](https://iupab2020.sbbq.org.br/home_278)]
 - Kento Nakamura and Tetsuya J. Kobayashi  
