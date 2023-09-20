@@ -22,6 +22,9 @@ draft: false
 **Modeling the missing mechanism in partially ranked data with adjacency-based regularization**  
 4th International Conference on Econometrics and Statistics (EcoSta2021), Online, Jun. 24 - 26, 2021. [[link](http://www.cmstatistics.org/RegistrationsV2/EcoSta2021/viewSubmission.php?in=287&token=032q7pn2509qr961so0812r594r82q14)]
 #### Poster presentations
+- Kento Nakamura and Tetsuya J. Kobayashi   
+**Limits of gradient sensing with a dynamically changing cell shape**  
+28th International Conference on Statistical Physics (Statphys28), Aug. 7-11, 2023. [[link](https://statphys28.org/)]  
 - Kento Nakamura and Tetsuya J. Kobayashi  
 **Optimal information processing and motor control of run-and-tumble chemotaxis under stochastic fluctuation**  
 The 12th European Conference on Mathematical and Theoretical Biology (ECMTB), Heidelberg, Germany, Sep. 19-23, 2022. [[link](https://ecmtb2022.org/)]  

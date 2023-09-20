@@ -5,9 +5,8 @@ draft: false
 ---
 Kento Nakamura (中村絢斗) is a postdoctoral researcher at the [Laboratory for Circuit Mechanisms of
 Sensory Perception](https://kazamalab.riken.jp/index.html), [RIKEN Center for Brain Science](https://cbs.riken.jp/en/index.html).
-He is interested in the design principles behind the implementation of decision-making in relatively primitive biological systems like cells and insects.
 ### Research Interests
-- information processing in biological systems
+- Information processing and learning in biological systems
 - Stochastic processes
 
 

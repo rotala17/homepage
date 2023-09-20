@@ -1,38 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://kento-nakamura.netlify.app/page/links/</loc>
     <lastmod>2020-06-25T23:41:32+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kento-nakamura.netlify.app/page/</loc>
     <lastmod>2020-06-25T23:41:32+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kento-nakamura.netlify.app/</loc>
     <lastmod>2020-06-25T00:06:07+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kento-nakamura.netlify.app/page/cv/</loc>
     <lastmod>2020-06-24T23:49:48+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kento-nakamura.netlify.app/page/publications/</loc>
     <lastmod>2020-06-24T23:47:48+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kento-nakamura.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kento-nakamura.netlify.app/tags/</loc>
   </url>
-  
 </urlset>

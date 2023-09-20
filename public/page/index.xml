@@ -6,18 +6,14 @@
     <description>Recent content in Pages on Kento Nakamura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2020 23:41:32 +0900</lastBuildDate>
-    
-	<atom:link href="https://kento-nakamura.netlify.app/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 25 Jun 2020 23:41:32 +0900</lastBuildDate><atom:link href="https://kento-nakamura.netlify.app/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links</title>
       <link>https://kento-nakamura.netlify.app/page/links/</link>
       <pubDate>Thu, 25 Jun 2020 23:41:32 +0900</pubDate>
       
       <guid>https://kento-nakamura.netlify.app/page/links/</guid>
-      <description> Labeoratory for Quantitative Biology Institute of Industrial Science Department of Mathematical Informatics Graduate school of Information Science and Technology the University of Tokyo  </description>
+      <description> Labeoratory for Quantitative Biology Institute of Industrial Science Department of Mathematical Informatics Graduate school of Information Science and Technology the University of Tokyo </description>
     </item>
     
     <item>
@@ -26,13 +22,13 @@
       <pubDate>Wed, 24 Jun 2020 23:49:48 +0900</pubDate>
       
       <guid>https://kento-nakamura.netlify.app/page/cv/</guid>
-      <description>Education   April 2020 - now
-Ph. D. student at Department of Mathematical Informatics, Graduate school of Information Science and Technology, the University of Tokyo
-Supervisor: Assoc. Prof. Tetsuya J. Kobayashi
-  March 2020
+      <description>Education March 2023
+Ph. D. of Information Science and Technology at Department of Mathematical Informatics, Graduate school of Information Science and Technology, the University of Tokyo
+Supervisor: Prof. Tetsuya J. Kobayashi
+Thesis: Mathematical analysis of dynamic cellular decision-making based on optimality theory
+March 2020
 Master of Information Science and Technology from Department of Mathematical Informatics, Graduate school of Information Science and Technology, the University of Tokyo
-   March 2018
-Bachelor of Engineering from Department of Mathematical Engineering and Information Physics, Faculty of Engineering, the University of Tokyo  Experience  April 2020 - now</description>
+Supervisor: Prof. Tetsuya J. Kobayashi</description>
     </item>
     
     <item>
@@ -41,13 +37,13 @@ Bachelor of Engineering from Department of Mathematical Engineering and Informat
       <pubDate>Wed, 24 Jun 2020 23:47:48 +0900</pubDate>
       
       <guid>https://kento-nakamura.netlify.app/page/publications/</guid>
-      <description>Journal Papers (Refereed)  Kento Nakamura and Tetsuya J. Kobayashi
+      <description>Journal Papers (Refereed) Kento Nakamura and Tetsuya J. Kobayashi
 Optimal sensing and control of run-and-tumble chemotaxis
 Physical Review Research, 4, 013120, 2022. [journal] Kento Nakamura and Tetsuya J. Kobayashi
 Connection between the bacterial chemotactic network and optimal filtering
 Physical Review Letters, 126, 128102, 2021. [journal] [arXiv] Kento Nakamura, Keisuke Yano, and Fumiyasu Komaki
 Adjacency-based regularization for partially ranked data with non-ignorable missing
-Computational Statistics &amp;amp; Data Analysis, 145, 106905, 2020.</description>
+Computational Statistics &amp;amp; Data Analysis, 145, 106905, 2020. [journal] International conferences Oral presentation Kento Nakamura, Keisuke Yano, and Fumiyasu Komaki</description>
     </item>
     
   </channel>
