@@ -3,6 +3,10 @@ title: "Publications"
 date: 2020-06-24T23:47:48+09:00
 draft: false
 ---
+### Preprint
+- Kento Nakamura and Tetsuya J. Kobayashi  
+**Gradient sensing limit of a cell when controlling the elongating direction**  
+arXiv:2405.04810, 2024. [[arXiv](https://arxiv.org/abs/2405.04810)]
 
 ### Journal Papers (Refereed)
 - Kento Nakamura and Tetsuya J. Kobayashi  
@@ -24,7 +28,7 @@ draft: false
 #### Poster presentations
 - Kento Nakamura and Tetsuya J. Kobayashi   
 **Limits of gradient sensing with a dynamically changing cell shape**  
-28th International Conference on Statistical Physics (Statphys28), Aug. 7-11, 2023. [[link](https://statphys28.org/)]  
+The 28th International Conference on Statistical Physics (Statphys28), Tokyo, Japan, Aug. 7-11, 2023. [[link](https://statphys28.org/)]  
 - Kento Nakamura and Tetsuya J. Kobayashi  
 **Optimal information processing and motor control of run-and-tumble chemotaxis under stochastic fluctuation**  
 The 12th European Conference on Mathematical and Theoretical Biology (ECMTB), Heidelberg, Germany, Sep. 19-23, 2022. [[link](https://ecmtb2022.org/)]  
