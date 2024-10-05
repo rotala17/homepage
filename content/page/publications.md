@@ -26,6 +26,9 @@ arXiv:2405.04810, 2024. [[arXiv](https://arxiv.org/abs/2405.04810)]
 **Modeling the missing mechanism in partially ranked data with adjacency-based regularization**  
 4th International Conference on Econometrics and Statistics (EcoSta2021), Online, Jun. 24 - 26, 2021. [[link](http://www.cmstatistics.org/RegistrationsV2/EcoSta2021/viewSubmission.php?in=287&token=032q7pn2509qr961so0812r594r82q14)]
 #### Poster presentations
+- Kento Nakamura, Keita Endo, and Hokto Kazama  
+**Synaptic fluctuation induces representational drift while preserving discriminability**  
+Bernstein Conference 2024, Frankfut am Main, Germany, Sep. 29 - Oct. 2, 2024. [[link](https://www.world-wide.org/bernstein-24/synaptic-fluctuation-induces-representational-87013c2f/)]  
 - Kento Nakamura and Tetsuya J. Kobayashi   
 **Limits of gradient sensing with a dynamically changing cell shape**  
 The 28th International Conference on Statistical Physics (Statphys28), Tokyo, Japan, Aug. 7-11, 2023. [[link](https://statphys28.org/)]  
