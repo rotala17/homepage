@@ -3,12 +3,11 @@ title: "Publications"
 date: 2020-06-24T23:47:48+09:00
 draft: false
 ---
-### Preprint
-- Kento Nakamura and Tetsuya J. Kobayashi  
-**Gradient sensing limit of a cell when controlling the elongating direction**  
-arXiv:2405.04810, 2024. [[arXiv](https://arxiv.org/abs/2405.04810)]
-
 ### Journal Papers (Refereed)
+- Kento Nakamura and Tetsuya J. Kobayashi  
+**Gradient sensing limit of an elongated cell with orientational control**  
+*Physical Review E*, 110, 064407, 2024. [[journal](https://doi.org/10.1103/PhysRevE.110.064407)]
+[[arXiv](https://arxiv.org/abs/2405.04810)]
 - Kento Nakamura and Tetsuya J. Kobayashi  
 **Optimal sensing and control of run-and-tumble chemotaxis**  
 *Physical Review Research*, 4, 013120, 2022. [[journal](https://doi.org/10.1103/PhysRevResearch.4.013120)]
