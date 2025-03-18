@@ -21,10 +21,18 @@ draft: false
 
 ### International conferences
 #### Oral presentation
+- Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi  
+**Quantifications of information flow based on dual reporter systems and its application to bacterial chemotaxis**  
+Computational \& Physical Understanding 
+of Biological Information Processing, OIST, Okinawa, Japan, Mar. 3 - 15, 2025. [[link](https://sites.google.com/g.ecc.u-tokyo.ac.jp/oist-tsvp-program/topic2)]  
 - Kento Nakamura, Keisuke Yano, and Fumiyasu Komaki  
 **Modeling the missing mechanism in partially ranked data with adjacency-based regularization**  
 4th International Conference on Econometrics and Statistics (EcoSta2021), Online, Jun. 24 - 26, 2021. [[link](http://www.cmstatistics.org/RegistrationsV2/EcoSta2021/viewSubmission.php?in=287&token=032q7pn2509qr961so0812r594r82q14)]
 #### Poster presentations
+- Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi  
+**Quantifications of information flow based on dual reporter systems and its application to bacterial chemotaxis**  
+Computational \& Physical Understanding 
+of Biological Information Processing, OIST, Okinawa, Japan, Mar. 3 - 15, 2025. [[link](https://sites.google.com/g.ecc.u-tokyo.ac.jp/oist-tsvp-program/poster)]  
 - Kento Nakamura, Keita Endo, and Hokto Kazama  
 **Synaptic fluctuation induces representational drift while preserving discriminability**  
 Bernstein Conference 2024, Frankfut am Main, Germany, Sep. 29 - Oct. 2, 2024. [[link](https://www.world-wide.org/bernstein-24/synaptic-fluctuation-induces-representational-87013c2f/)]  
