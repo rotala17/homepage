@@ -3,6 +3,11 @@ title: "Publications"
 date: 2020-06-24T23:47:48+09:00
 draft: false
 ---
+### Preprint
+- Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi
+**Quantification of Information Flow by Dual Reporter System and Its Application to Bacterial Chemotaxis**  
+arXiv:2506.15957, 2025. [[arXiv](
+https://doi.org/10.48550/arXiv.2506.15957)]
 ### Journal Papers (Refereed)
 - Kento Nakamura and Tetsuya J. Kobayashi  
 **Gradient sensing limit of an elongated cell with orientational control**  

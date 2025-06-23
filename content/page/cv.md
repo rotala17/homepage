@@ -26,6 +26,8 @@ Special Postdoctoral Researcher (SPDR) at [RIKEN Center for Brain Science](https
 JSPS Research Fellowship for Young Scientists (DC1) [link](https://www.jsps.go.jp/english/e-pd/index.html)
 
 ### Grants
+- **September 2024 - March 2027**
+JST ACT-X (Life and Information) [link](https://www.jst.go.jp/kisoken/act-x/en/project/111F009/111F009_2024.html)
 - **April 2023 - March 2026**
 RIKEN, Special Postdoctoral Researcher  [link](https://www.riken.jp/en/careers/programs/spdr/) 
 - **April 2020 - March 2023**  

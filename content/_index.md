@@ -15,7 +15,7 @@ He studies information processing and learning in biological systems from the vi
 - Fly olfactory network
 
 
-### Affiliation
+### Affiliationc
 [RIKEN Center for Brain Science](https://cbs.riken.jp/en/index.html)
 <!--
 [Department of Mathematical Informatics](https://www.i.u-tokyo.ac.jp/edu/course/mi/index_e.shtml),  
