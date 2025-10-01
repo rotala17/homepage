@@ -4,6 +4,9 @@ date: 2020-06-24T23:47:48+09:00
 draft: false
 ---
 ### Preprint
+- Kento Nakamura, Keita Endo, and Hokto Kazama  
+**Synaptic and potential fluctuations drive representational drift with differential effects on discrimination learning**  
+bioRxiv:2025.09.30.679426, 2025. [[bioRxiv](https://doi.org/10.1101/2025.09.30.679426)]  
 - Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi
 **Quantification of Information Flow by Dual Reporter System and Its Application to Bacterial Chemotaxis**  
 arXiv:2506.15957, 2025. [[arXiv](
