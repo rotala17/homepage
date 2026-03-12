@@ -7,11 +7,11 @@ draft: false
 - Kento Nakamura, Keita Endo, and Hokto Kazama  
 **Synaptic and potential fluctuations drive representational drift with differential effects on discrimination learning**  
 bioRxiv:2025.09.30.679426, 2025. [[bioRxiv](https://doi.org/10.1101/2025.09.30.679426)]  
+
+### Journal Papers (Refereed)
 - Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi
 **Quantification of Information Flow by Dual Reporter System and Its Application to Bacterial Chemotaxis**  
-arXiv:2506.15957, 2025. [[arXiv](
-https://doi.org/10.48550/arXiv.2506.15957)]
-### Journal Papers (Refereed)
+*Physical Review Letters*, 136, 108403, 2026. [[journal](https://doi.org/10.1103/jrph-wj94)]
 - Kento Nakamura and Tetsuya J. Kobayashi  
 **Gradient sensing limit of an elongated cell with orientational control**  
 *Physical Review E*, 110, 064407, 2024. [[journal](https://doi.org/10.1103/PhysRevE.110.064407)]
