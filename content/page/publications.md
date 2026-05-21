@@ -31,12 +31,18 @@ bioRxiv:2025.09.30.679426, 2025. [[bioRxiv](https://doi.org/10.1101/2025.09.30.6
 #### Oral presentation
 - Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi  
 **Quantifications of information flow based on dual reporter systems and its application to bacterial chemotaxis**  
+Quantitative Microbiology Symposium, Academia Sinica, Taipei, Taiwan, May. 18 - 19, 2026. [[link](https://sites.google.com/view/q-microbio-2026/home)]  
+- Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi  
+**Quantifications of information flow based on dual reporter systems and its application to bacterial chemotaxis**  
 Computational \& Physical Understanding 
 of Biological Information Processing, OIST, Okinawa, Japan, Mar. 3 - 15, 2025. [[link](https://sites.google.com/g.ecc.u-tokyo.ac.jp/oist-tsvp-program/topic2)]  
 - Kento Nakamura, Keisuke Yano, and Fumiyasu Komaki  
 **Modeling the missing mechanism in partially ranked data with adjacency-based regularization**  
 4th International Conference on Econometrics and Statistics (EcoSta2021), Online, Jun. 24 - 26, 2021. [[link](http://www.cmstatistics.org/RegistrationsV2/EcoSta2021/viewSubmission.php?in=287&token=032q7pn2509qr961so0812r594r82q14)]
 #### Poster presentations
+- Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi  
+**Quantifications of information flow based on dual reporter systems and its application to bacterial chemotaxis**  
+Quantitative Microbiology Symposium, Academia Sinica, Taipei, Taiwan, May. 18 - 19, 2026. [[link](https://sites.google.com/view/q-microbio-2026/home)] 
 - Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi  
 **Quantifications of information flow based on dual reporter systems and its application to bacterial chemotaxis**  
 Computational \& Physical Understanding 

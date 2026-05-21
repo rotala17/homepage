@@ -20,12 +20,16 @@ the University of Tokyo
 Supervisor: Prof. [Fumiyasu Komaki](http://www.stat.t.u-tokyo.ac.jp/index.html)  
 
 ### Experience
-- **April 2023 - now**
+- **April 2026 - now**
+JSPS Research Fellowship for Young Scientists (PD) [link] (https://www.jsps.go.jp/english/e-pd/index.html)
+- **April 2023 - March 2026**
 Special Postdoctoral Researcher (SPDR) at [RIKEN Center for Brain Science](https://cbs.riken.jp/en/index.html)
 - **April 2020 - March 2023**  
 JSPS Research Fellowship for Young Scientists (DC1) [link](https://www.jsps.go.jp/english/e-pd/index.html)
 
 ### Grants
+- **April 2026 - March 2029**  
+Grant-in-Aid for JSPS Fellows  
 - **September 2024 - March 2027**
 JST ACT-X (Life and Information) [link](https://www.jst.go.jp/kisoken/act-x/en/project/111F009/111F009_2024.html)
 - **April 2023 - March 2026**
