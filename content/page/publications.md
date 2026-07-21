@@ -31,6 +31,9 @@ bioRxiv:2025.09.30.679426, 2025. [[bioRxiv](https://doi.org/10.1101/2025.09.30.6
 #### Oral presentation
 - Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi  
 **Quantifications of information flow based on dual reporter systems and its application to bacterial chemotaxis**  
+14th European Conference on Mathematical & Theoretical Biology, University of Graz, Graz, Austria, Jul. 13 - 17, 2026. [[link](https://ecmtb2026.org/contributions/ct306)]  
+- Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi  
+**Quantifications of information flow based on dual reporter systems and its application to bacterial chemotaxis**  
 Quantitative Microbiology Symposium, Academia Sinica, Taipei, Taiwan, May. 18 - 19, 2026. [[link](https://sites.google.com/view/q-microbio-2026/home)]  
 - Kento Nakamura, Hajime Fukuoka, Akihiko Ishijima, and Tetsuya J. Kobayashi  
 **Quantifications of information flow based on dual reporter systems and its application to bacterial chemotaxis**  
